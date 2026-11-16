@@ -1,4 +1,3 @@
-"""Схема наблюдаемого процесса E2. Запускается из analyze.py."""
 import math
 from pathlib import Path
 
