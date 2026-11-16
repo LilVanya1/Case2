@@ -1,12 +1,3 @@
-"""E2: восстановить наблюдаемый процесс по журналу.
-
-Запуск из папки практики:
-
-    python E2/analyze.py
-
-Пишет variants.csv, student_transitions.csv и таблицы в E2/data/.
-Исходный students.csv не меняет.
-"""
 import json
 from pathlib import Path
 
